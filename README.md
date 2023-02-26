@@ -1,5 +1,7 @@
-<div id="header" aling="center">
-  <img src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy-downsized-large.gif" width="200" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy-downsized-large.gif" width="200"/>
+  <h1 align="center"> Hi 👋 , I´m Chaserdamo </h1>
+  <h3 align="center">I´m a student of a higher degree of development in multiplatform applications, I´m also a technician in microcomputing and networks. I like to code 24/7 and I consider myself a fullstack developer.</h3>
 </div>
 
 
