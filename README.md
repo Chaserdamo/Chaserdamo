@@ -28,8 +28,7 @@
 
 ### 📊 My Stats :
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chaserdamo&theme=horizon&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chaserdamo&theme=horizon&hide_border=true&mode=weekly)](https://git.io/streak-stats) 
 ![Chaserdamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaserdamo&show_icons=true&theme=radical)
   
 
