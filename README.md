@@ -37,6 +37,10 @@
   
 
   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaserdamo&show_icons=true&locale=en" alt="chaserdamo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaserdamo&" alt="chaserdamo" /></p>
+
   
   
   
