@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-<iframe src="https://giphy.com/embed/l3q2zbskZp2j8wniE" width="480" height="279" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/microsoft-party-time-bill-gates-l3q2zbskZp2j8wniE">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/l3q2zbskZp2j8wniE" width="200" />
 </div>
 
 
