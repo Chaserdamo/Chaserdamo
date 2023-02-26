@@ -29,8 +29,10 @@
 ### 📊 My Stats :
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chaserdamo&theme=horizon&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+  
 ![Chaserdamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaserdamo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaserdamo&hide_progress=true)](https://github.com/Chaserdamo/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaserdamo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
   
   
