@@ -18,6 +18,8 @@
 
 - 📫 Contact me **chaserdamo0@gmail.com**
 
+- 🙋🏻 Personal site [https://chaserdamo.github.io]
+
 - 🌐 Proyect Website [https://mundanepaintings.github.io]
 
 
