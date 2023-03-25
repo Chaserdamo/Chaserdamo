@@ -16,7 +16,6 @@
 
 - 🙋🏻 Personal site [https://chaserdamo.github.io]
 
-- 🌐 Proyect Website [https://mundanepaintings.github.io]
 
 
 
