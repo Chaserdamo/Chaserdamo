@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-<h3 align="center">I´m a student of a higher degree of development in multiplatform applications. I´m also a technician in microcomputing and networks. I like to code 24/7.</h3>
+<h3 align="center" color="#FFFFFF">I´m a student of a higher degree of development in multiplatform applications. I´m also a technician in microcomputing and networks. I like to code 24/7.</h3>
 </div>
 
 ---
