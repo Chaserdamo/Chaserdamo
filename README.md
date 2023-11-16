@@ -3,40 +3,49 @@
 </div>
 
 <div id="header" align="center">
-<h3 align="center" color="FFFFFF">I´m a student of a higher degree of development in multiplatform applications. I´m also a technician in microcomputing and networks. I like to code 24/7.</h3>
+<h3 align="center" color="FFFFFF">I´m a student of a higher degree of development in multiplatform applications. I´m also a technician in microcomputing and networks.</h3>
 </div>
 
 ---
 
-### 🧑🏻‍💻 About Me : 
+### 🧑🏻‍💻 About Me
 
-- 📖 I'm learning new programming languages
+- 📖 I'm learning new programming languages and reinforcing the ones I already knows.
 
-- 📫 Contact me **chaserdamo0@gmail.com**
+- 📫 Contact me: **chaserdamo0@gmail.com**
 
-- 🙋🏻 Personal site [https://chaserdamo.github.io]
+- 🙋🏻 Personal site: https://chaserdamo.github.io
+  
+<br>
 
 
-
-
-<div align="left">
-  <h3>🔨 Languagues and Tools:</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt"HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt"CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVA" alt"JAVA" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt"swift" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="android" alt"android" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt"MYSQL" width="40" height="40"/>&nbsp;
-  </div>
+### 🛠️ Languagues and Tools
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
     
+  </div>
+
+<br>
+  
 ---
 
-### 📊 My Stats :
- 
-![]([https://github-readme-stats.vercel.app/api?username=Chaserdamo&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chaserdamo&theme=prussian&hide_border=false)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaserdamo&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
+### 📊 My Stats
 
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chaserdamo&theme=prussian&hide_border=false)
+  
+</div>
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaserdamo&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
   
