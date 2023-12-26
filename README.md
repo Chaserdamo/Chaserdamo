@@ -14,7 +14,7 @@
 
 - 📫 Contact me: **chaserdamo0@gmail.com**
 
-- 🙋🏻 Personal site: https://chaserdamo.github.io
+- 🙋🏻 Personal site: https://chaserdamo.vercel.app
   
 <br>
 
