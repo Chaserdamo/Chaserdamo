@@ -1,16 +1,16 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A2C3E1&center=true&vCenter=true&width=435&lines=Hi+%2C+I'm+Chaserdamo;Full+stack+developer;Beginning+programming;1+year+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A2C3E1&center=true&vCenter=true&width=435&lines=Hi+%2C+I'm+Chaserdamo;Backend+developer;2+year+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a> 
 </div>
 
 <div id="header" align="center">
-<h3 align="center" color="FFFFFF">I´m a student of a higher degree of development in multiplatform applications. I´m also a technician in microcomputing and networks.</h3>
+<h3 align="center" color="FFFFFF">Working in Accenture as an SAP ABAP developer. Graduated in higher degree of development in multiplatform applications. I´m also a certificed technician in microcomputing and networks.</h3>
 </div>
 
 ---
 
 ### 🧑🏻‍💻 About Me
 
-- 📖 I'm learning new programming languages and reinforcing the ones I already knows.
+- 📖 Learning new programming languages and reinforcing the ones I already knows.
 
 - 📫 Contact me: **chaserdamo0@gmail.com**
 
